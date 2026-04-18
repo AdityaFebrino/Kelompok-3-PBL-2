@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f8fafc;
+}
+
+.hero {
+  padding: 80px 20px;
+  text-align: center;
+  background: linear-gradient(135deg, #2563eb, #7c3aed);
+  color: white;
+}
+```html id="zdx91p"
+<!-- Logo Zaditarian Office Supply - Premium Minimal Modern -->
+<svg width="280" height="80" viewBox="0 0 280 80" xmlns="http://www.w3.org/2000/svg" fill="none">
+
+  <!-- Icon (refined Z monogram) -->
+  <g stroke="#111111" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="15" y1="20" x2="65" y2="20"/>
+    <line x1="65" y1="20" x2="15" y2="60"/>
+    <line x1="15" y1="60" x2="65" y2="60"/>
+  </g>
+
+  <!-- Subtle premium accent -->
+  <circle cx="72" cy="60" r="3" fill="#111111"/>
+
+  <!-- Brand Name -->
+  <text x="90" y="38" font-family="Poppins, Inter, Arial, sans-serif" font-size="20" fill="#111111" letter-spacing="0.5">
+    Zaditarian
+  </text>
+
+  <!-- Subtitle -->
+  <text x="90" y="60" font-family="Inter, Arial, sans-serif" font-size="12" fill="#666666" letter-spacing="1.5">
+    OFFICE SUPPLY
+  </text>
+
+</svg>
+```
+
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Kelompok 3 PBL 2</title>
+</head>
+<body>
+ <h1>Kelompok 3 PBL 2</h1>
+ <p>Nama Perusahaan: <strong>[Zaditarian Office Supply]</strong></p>
+ <p>Anggota:</p>
+ <ul>
+  <li>[Aditya Febrino (CEO)]</li>
+  <li>[Intan Ratna (Aspri Cantik 1)]</li>
+  <li>[Andita Padila (Aspri Cantik 2]</li>
+  <li>[Nur Az zahra (Member)]</li>
+  <li>[M. Ardiansyah (Security)]</li>
+ </ul>
+ <p>Lihat proyek kami di <a href="https://docs.google.com/document/d/1AF-jtRmkyNlr9Ywbrf042OD2BvAjhGE6/edit?usp=sharing&ouid=112856495438684852858&rtpof=true&sd=true">GitH
+ub</a></p>
+ </body>
+ </html>
